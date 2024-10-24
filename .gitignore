@@ -1,0 +1,5 @@
+lib/
+include/
+.vscode/
+*.zip
+output/*.dll
